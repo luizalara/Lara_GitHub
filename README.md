@@ -6,7 +6,7 @@ Desenvolvedora de Software em formação • Estudante de Análise e Desenvolvim
 
 > *"I ain't afraid of no code, or ghosts!"* 👻
 
-## 🔦 Connect with Lara
+## 💚 Connect with Lara
 
 <p>
   <a href="https://www.linkedin.com/in/lara-sousa-2b9435365"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -26,14 +26,14 @@ Desenvolvedora de Software em formação • Estudante de Análise e Desenvolvim
 ![Cisco](https://img.shields.io/badge/Fundamentos_de_Redes-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Embarcados](https://img.shields.io/badge/Sistemas_Embarcados-Embarca_Tech-43B047?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 👻 Lara's GitHub Analytics
+## 💥 Lara's GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lara_GitHub&show_icons=true&theme=dark&title_color=43B047&icon_color=43B047&hide_border=true" height="170" />
   <img src="https://streak-stats.demolab.com/?user=Lara_GitHub&theme=dark&ring=43B047&fire=43B047&currStreakLabel=43B047&hide_border=true" height="170" />
 </p>
 
-## 🐍 Lara Caçando Contribuições
+## ⭐ Lara Caçando Contribuições
 
 <img src="IMG_1528.jpeg" alt="Lara caçando contribuições" width="100%">
 
@@ -45,7 +45,7 @@ Desenvolvedora de Software em formação • Estudante de Análise e Desenvolvim
 ![Cisco Network Fundamentals](https://img.shields.io/badge/🌐_Cisco_Network_Fundamentals-1BA0D7?style=for-the-badge)
 ![Embedded Systems Explorer](https://img.shields.io/badge/🔌_Embedded_Systems_Explorer-1E3A8A?style=for-the-badge)
 
-## 💬 Lara's Dev Quote
+## 🌼 Lara's Dev Quote
 
 > Ainda estou construindo experiência, mas são caminhos que fazem sentido para mim.e=waving&color=43B047&height=100&section=footer" />
 </p>
