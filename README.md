@@ -48,4 +48,4 @@ Desenvolvedora de Software em formação • Estudante de Análise e Desenvolvim
 ## 🌼 Lara's Dev Quote
 
 > Ainda estou construindo experiência, mas são caminhos que fazem sentido para mim." />
-</p>
+
