@@ -37,9 +37,6 @@ Desenvolvedora de Software em formação • Estudante de Análise e Desenvolvim
 
 <img src="https://raw.githubusercontent.com/Lara_GitHub/Lara_GitHub/output/snake.svg" width="100%" alt="Cobrinha comendo contribuições" />
 
-## 📈 Lara's Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lara_GitHub&bg_color=0d1117&color=43B047&line=43B047&point=FFFFFF&area=true&area_color=43B047&hide_border=true" width="100%" />
 
 ## 🏆 Lara's Achievements
 
