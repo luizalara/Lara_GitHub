@@ -1,7 +1,5 @@
-<h1 align="center">💚 Luigi-Themed GitHub Profile 💚</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=43B047&height=120&section=header" />
+  <img src="IMG_5632.jpeg" alt="Hello, I'm Lara!" width="100%" />
 </p>
 
 Desenvolvedora de Software em formação • Estudante de Análise e Desenvolvimento de Sistemas • Foco em Web e IA. Construindo experiência em Back-end e Engenharia de IA.
@@ -11,10 +9,8 @@ Desenvolvedora de Software em formação • Estudante de Análise e Desenvolvim
 ## 🔦 Connect with Lara
 
 <p>
-  <a href="https://linkedin.com/in/[seu-usuario]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/[seu-usuario]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/[seu-usuario]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:[seu-email]"><img src="https://img.shields.io/badge/Email-43B047?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lara-sousa-2b9435365"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:elfinhoz@gmail.com"><img src="https://img.shields.io/badge/Email-43B047?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## 🍄 Lara's Tech Stack
@@ -51,8 +47,5 @@ Desenvolvedora de Software em formação • Estudante de Análise e Desenvolvim
 
 ## 💬 Lara's Dev Quote
 
-> Ainda estou construindo experiência, mas são caminhos que fazem sentido para mim.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=43B047&height=100&section=footer" />
+> Ainda estou construindo experiência, mas são caminhos que fazem sentido para mim.e=waving&color=43B047&height=100&section=footer" />
 </p>
