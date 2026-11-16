@@ -33,10 +33,9 @@ Desenvolvedora de Software em formação • Estudante de Análise e Desenvolvim
   <img src="https://streak-stats.demolab.com/?user=Lara_GitHub&theme=dark&ring=43B047&fire=43B047&currStreakLabel=43B047&hide_border=true" height="170" />
 </p>
 
-## 🐍 Luigi Caçando Contribuições
+## 🐍 Lara Caçando Contribuições
 
-<img src="https://raw.githubusercontent.com/Lara_GitHub/Lara_GitHub/output/snake.svg" width="100%" alt="Cobrinha comendo contribuições" />
-
+<img src="IMG_1528.jpeg" alt="Lara caçando contribuições" width="100%">
 
 ## 🏆 Lara's Achievements
 
